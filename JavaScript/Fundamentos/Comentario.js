@@ -12,6 +12,3 @@ console.log('Linha 2')
 * múltiplas linhas
 */
 console.log('Linah 3')
-
-
-
